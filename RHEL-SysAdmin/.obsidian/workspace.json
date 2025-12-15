@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "ac3c45f9f0781cd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa5ef7d2d1f9eb71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc22e4a6fbd2bd8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Системный администратор RHEL/05 - Пути и директории.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - Пути и директории"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24d9ccb10439f952",
+    "type": "split",
+    "children": [
+      {
+        "id": "661d3a6ad664425e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed35e58e792c1f4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c57dd48ec68776b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "e61e99500efa68e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5
+  },
+  "right": {
+    "id": "5432187dfd29306b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a47b31fdcfea6e3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d38f539b4afcd6fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Системный администратор RHEL/01 - ОС и Линукс.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 01 - ОС и Линукс"
+            }
+          },
+          {
+            "id": "063efd024f3b2732",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Системный администратор RHEL/01 - ОС и Линукс.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 01 - ОС и Линукс"
+            }
+          },
+          {
+            "id": "eea28022d3d56626",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "f41438bd9c70caa1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Системный администратор RHEL/01 - ОС и Линукс.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 01 - ОС и Линукс"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dc22e4a6fbd2bd8b",
+  "lastOpenFiles": [
+    "01 - Системный администратор RHEL/00 - Навигация.md",
+    "01 - Системный администратор RHEL/05 - Пути и директории.md",
+    "01 - Системный администратор RHEL/03 - О файловых системах.md",
+    "01 - Системный администратор RHEL/04 - Текстовый интерфейс пользователя.md",
+    "Hyprland.md",
+    "00 - Caches/Screenshot From 2025-11-07 16-24-59.png",
+    "00 - Caches/Screenshot From 2025-11-07 16-21-43.png",
+    "00 - Caches/Screenshot From 2025-11-07 16-15-59.png",
+    "00 - Caches/Screenshot From 2025-11-07 16-13-28.png",
+    "00 - Caches/Screenshot From 2025-11-07 16-10-16.png",
+    "00 - Caches/Screenshot From 2025-11-07 16-01-23.png",
+    "00 - Caches/Screenshot From 2025-11-07 15-58-58.png",
+    "02 - Разное/командами.md",
+    "02 - Разное/программу для удаленного доступа.md",
+    "02 - Разное/SSH.md",
+    "02 - Разное/эмулятор терминала.md",
+    "02 - Разное/tty.md",
+    "02 - Разное/автоматизировать.md",
+    "02 - Разное/итоги..md",
+    "02 - Разное/скрипты.md",
+    "02 - Разное/циклы.md",
+    "02 - Разное/переменные при запуске.md",
+    "02 - Разное/условия для запуска.md",
+    "условия для запуска**.md",
+    "02 - Разное/запуска программ.md",
+    "00 - Caches/Screenshot From 2025-11-06 17-39-35.png",
+    "00 - Caches/Screenshot From 2025-11-06 17-39-20.png",
+    "02 - Разное/bash.md",
+    "02 - Разное/shell.md",
+    "02 - Разное/оболочкой.md",
+    "02 - Разное/драйвер модуль ядра.md",
+    "00 - Caches/Screenshot From 2025-11-06 15-54-14.png",
+    "02 - Разное/Жесткая ссылка.md",
+    "02 - Разное/метаданные хранятся в инодах.md",
+    "01 - Системный администратор RHEL/02 - Виртуализация.md",
+    "02 - Разное/инодами.md",
+    "02 - Разное",
+    "00 - Caches",
+    "Системный администратор RHEL/01 - Operating systems and Linux",
+    "01 - Системный администратор RHEL"
+  ]
+}

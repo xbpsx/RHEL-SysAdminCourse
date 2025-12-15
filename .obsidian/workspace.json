@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "30236ff51426aa72",
+    "type": "split",
+    "children": [
+      {
+        "id": "54812ac6febd9081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "030ad2190f8e02d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RHEL-SysAdmin-main/01 - Системный администратор RHEL/05 - Пути и директории.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - Пути и директории"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2e472e6edaab92d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b00a73906782de38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c594a6cc7184799",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6fe93f340ee30eda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "34c322665cfb2b07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "e8151a075ab694de",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2cc6da5488838ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2eaf9e671614960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8435be8c631e9418",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arch Linux/Пакеты.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Пакеты"
+            }
+          },
+          {
+            "id": "f134b1f17c60e087",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arch Linux/Пакеты.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Пакеты"
+            }
+          },
+          {
+            "id": "a6cda40b95044599",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "532dbe46ce8c6688",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "7fc4bcee9dfb1173",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arch Linux/Пакеты.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Пакеты"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "030ad2190f8e02d2",
+  "lastOpenFiles": [
+    "RHEL-SysAdmin-main/01 - Системный администратор RHEL/00 - Навигация.md",
+    "RHEL-SysAdmin-main/01 - Системный администратор RHEL/08 - Чтение текстовых файлов.md",
+    "RHEL-SysAdmin-main/01 - Системный администратор RHEL/07 - Перемещение, переименование, удаление. Жёсткие и символические ссылки.md",
+    "RHEL-SysAdmin-main/02 - Разное/символические ссылки.md",
+    "RHEL-SysAdmin-main/02 - Разное/бэкапе данных.md",
+    "RHEL-SysAdmin-main/02 - Разное/две специальные жесткие сслыки.md",
+    "RHEL-SysAdmin-main/02 - Разное/специальный файл.md",
+    "RHEL-SysAdmin-main/01 - Системный администратор RHEL/06 - Создание и копирование файлов.md",
+    "RHEL-SysAdmin-main/00 - Caches/screenshot-20251121-122105.png",
+    "RHEL-SysAdmin-main/02 - Разное/Жесткая ссылка.md",
+    "RHEL-SysAdmin-main/01 - Системный администратор RHEL/03 - О файловых системах.md",
+    "RHEL-SysAdmin-main/01 - Системный администратор RHEL/02 - Виртуализация.md",
+    "RHEL-SysAdmin-main/01 - Системный администратор RHEL/01 - ОС и Линукс.md",
+    "RHEL-SysAdmin-main/01 - Системный администратор RHEL/05 - Пути и директории.md",
+    "RHEL-SysAdmin-main/01 - Системный администратор RHEL/04 - Текстовый интерфейс пользователя.md",
+    "RHEL-SysAdmin-main/02 - Разное/регулярными выражениями.md",
+    "Без названия.base",
+    "Arch Linux/Пакеты.md",
+    "Arch Linux/Flatpak.md",
+    "RHEL-SysAdmin-main/00 - Caches/screenshot-20251113-084637.png",
+    "RHEL-SysAdmin-main/00 - Caches/screenshot-20251113-083759.png",
+    "RHEL-SysAdmin-main/00 - Caches/screenshot-20251113-083605.png",
+    "RHEL-SysAdmin-main/00 - Caches/screenshot-20251112-120137.png",
+    "RHEL-SysAdmin-main/screenshot-20251112-093640.png",
+    "RHEL-SysAdmin-main/screenshot-20251112-105052.png",
+    "RHEL-SysAdmin-main/02 - Разное/экранирование символов.md",
+    "RHEL-SysAdmin-main/00 - Caches/screenshot-20251112-112137.png",
+    "RHEL-SysAdmin-main/00 - Caches/screenshot-20251112-105855.png",
+    "RHEL-SysAdmin-main/00 - Caches/screenshot-20251112-104357.png",
+    "RHEL-SysAdmin-main/02 - Разное/файловый менеджер.md",
+    "RHEL-SysAdmin-main/02 - Разное/файловая система.md",
+    "RHEL-SysAdmin-main/02 - Разное/пайпы..md",
+    "RHEL-SysAdmin-main/02 - Разное/сокеты.md",
+    "RHEL-SysAdmin-main/02 - Разное/все есть файл.md",
+    "RHEL-SysAdmin-main/02 - Разное/эмулятор терминала.md",
+    "RHEL-SysAdmin-main/02 - Разное/циклы.md",
+    "RHEL-SysAdmin-main/02 - Разное/утилитами.md",
+    "RHEL-SysAdmin-main/02 - Разное",
+    "RHEL-SysAdmin-main/01 - Системный администратор RHEL",
+    "RHEL-SysAdmin-main/00 - Caches",
+    "RHEL-SysAdmin-main",
+    "Arch Linux"
+  ]
+}
